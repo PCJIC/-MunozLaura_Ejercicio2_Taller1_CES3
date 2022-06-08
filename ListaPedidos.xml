@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE ListaPedidos SYSTEM "ListaPedidos.dtd">
+
+<ListaPedidos>
+    <Pedido>
+        <NumeroSerie>1010</NumeroSerie>
+        <Cantidad>2</Cantidad>
+        <Peso>3 kg</Peso>
+    </Pedido>
+    <Pedido>
+        <NumeroSerie>1020</NumeroSerie>
+        <Cantidad>8</Cantidad>
+    </Pedido>
+    <Pedido>
+        <NumeroSerie>1030</NumeroSerie>
+        <Cantidad>2</Cantidad>
+    </Pedido>
+    <Pedido>
+        <NumeroSerie>1040</NumeroSerie>
+        <Cantidad>2</Cantidad>
+        <Peso>3 kg</Peso>
+    </Pedido>
+</ListaPedidos>
